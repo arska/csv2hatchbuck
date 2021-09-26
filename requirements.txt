@@ -4,7 +4,7 @@ filelock==3.0.12
 hatchbuck==1.0.23
 idna==2.10
 packaging==18.0
-pluggy==0.8.0
+pluggy==0.13.1
 py==1.10.0
 pycountry==18.5.26
 pyparsing==2.3.0
