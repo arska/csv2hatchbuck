@@ -8,7 +8,7 @@ import os
 import csv
 import codecs
 from dotenv import load_dotenv
-from HATCHBUCK import Hatchbuck
+from hatchbuck import Hatchbuck
 
 
 load_dotenv()
