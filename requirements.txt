@@ -8,7 +8,7 @@ pluggy==0.8.0
 py==1.10.0
 pycountry==18.5.26
 pyparsing==2.3.0
-python-dotenv==0.9.1
+python-dotenv==0.19.0
 requests==2.20.1
 six==1.11.0
 toml==0.10.2
